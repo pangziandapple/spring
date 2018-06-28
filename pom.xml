@@ -25,7 +25,6 @@
 
     <dependencyManagement>
         <dependencies>
-
             <dependency>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot</artifactId>
@@ -49,7 +48,6 @@
                 <artifactId>mysql-connector-java</artifactId>
                 <version>${org.mysql.version}</version>
             </dependency>
-
         </dependencies>
     </dependencyManagement>
 
